@@ -1,4 +1,3 @@
-package Sl;
 
 import java.util.Scanner;
 
